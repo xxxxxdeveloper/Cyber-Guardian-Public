@@ -9,3 +9,4 @@ nav_order: 1
 ยินดีต้อนรับสู่โลกอนาคตที่มนุษย์และ AI กำลังเรียนรู้ซึ่งกันและกัน...
 
 [อ่านบทที่ 1](story/chapter1/chapter1.md)
+[อ่านบทที่ 2](story/chapter2/chapter2.md)
