@@ -1,6 +1,6 @@
 ---
-layout: default
-title: หน้าหลัก
+
+title: Cyber Guardian
 ---
 
 # Cyber Guardian Novel
